@@ -1,6 +1,6 @@
 # HoloLive-Recorder
 <br>
-<b>Program for recording HoloLive live streams</b>
+<b>Program for recording HoloLive live streams so that you don't miss non archived streams</b>
 <br>
 Has Coco as default
 <br><br>
@@ -14,7 +14,7 @@ Change the file_name variable to reflect the new VTuber
 <br>
 Add a new os.system() call to the new VTuber.py file in Main.py in the job() function
 <br><hr>
-<b>Requirments:</b>
+<b>Requirements:</b>
 <br>
 tendo
 <br>
