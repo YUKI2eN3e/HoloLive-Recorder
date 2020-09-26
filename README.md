@@ -16,8 +16,8 @@ Add a new os.system() call to the new VTuber.py file in Main.py in the job() fun
 <br><hr>
 <b>Requirements:</b>
 <br>
-tendo
+<a href="https://github.com/pycontribs/tendo">tendo</a>
 <br>
-schedule
+<a href="https://github.com/dbader/schedule">schedule</a>
 <br>
-streamlink
+<a href="https://github.com/streamlink/streamlink">streamlink</a>
