@@ -4,7 +4,7 @@ import os
 
 def job():
     print("Running")
-    os.system("python3 Coco.py")
+    os.system("Coco.py")
 
 schedule.every().hour.at("00:00").do(job)
 schedule.every().hour.at("01:00").do(job)
